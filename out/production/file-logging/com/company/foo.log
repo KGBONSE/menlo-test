@@ -1,0 +1,7 @@
+ERROR: 01234 The client failed to start
+INFO: Looking good on the server side
+ERROR: 01235 The server failed to stop
+ERROR: 01236 The client failed to start again
+INFO: Still Looking good on the server side
+INFO: Yes, Looking good on the server side
+ERROR: 01234 The client failed to start again
